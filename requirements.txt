@@ -1,0 +1,5 @@
+flask
+zstandard
+brotli
+cloudscraper
+requests
